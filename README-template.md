@@ -11,14 +11,14 @@ This is a solution to the [Article preview component challenge on Frontend Mento
     -   [Author](#author)
     -   [Acknowledgments](#acknowledgments)
 
-![](./screenshot.jpg)
+### Screenshot
+
+![](./screenshot.PNG)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+-   Solution URL: [article-solution](https://www.frontendmentor.io/solutions/article-component-solution-gRLMlm_ru)
+-   Live Site URL: [article-site](https://article-frontend-master.netlify.app/)
 
 ### Built with
 
